@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./myweb/ManJETStore",
+        "./myweb/ManJETStore/store"
+    ]
+}
